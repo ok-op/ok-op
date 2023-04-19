@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jaan op</h1>
+<h1 align="center">Hi 👋, my jaan op</h1>
 <h3 align="center">A passionate jaan op developer from India</h3>
 
 - 🔭 I’m currently working on **jaan op**
